@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+   font-family: Arial,  sans-serif;
+   background-image: url(../images/maillot\ ar.jpg);
+
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+  height: 2vh;
+  
+}
+header{
+   background-color: #fff;
+    color: #1574bb;
+    
+    text-align: center;
+}
+h1{
+
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+    color:#1574bb;
+}
+
+ 
+li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: darkblue;
+    font-weight: 900;
+    border-style: ridge;
+    background-color: #fff;
+   margin-left: 45%;
+}
+   
+ 
+ 
+ footer{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+
+}
+section{
+    margin: 20px;
+    padding: 50px;
+    border: 10px solid #fff ;
+    
+}
+h2{
+    padding: 10px;
+    font-weight: 700;
+   color:white;
+    font-family: 'Courier New', Courier, monospace;
+}

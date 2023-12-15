@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+
+}
+h1{
+    background-color: #fff;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+form{
+    text-align: center;
+    border-style: ridge;
+    height: 40vh;
+    width: 40vw;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+input{
+    margin: 10px;
+    padding: 10px 20%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+}
+li a{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-left: 47%;
+    
+}

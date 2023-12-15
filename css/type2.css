@@ -1,0 +1,32 @@
+
+body{
+    background-color: #1574bb;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+li a{
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    margin-left: 45%;
+    border: 2px solid #fff;
+    
+}
+h1{
+    font-size: 50px;
+    font-family: banhscrift condensed;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+    color: #1574bb;
+}
+img {
+ 
+   
+    margin: 10px;
+    width: 30vw;
+    height: 45vh;
+}

@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(ballon\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+h1{
+   
+    font-size: 50px;
+    font-weight: bolder;
+    background-color: #fff;
+    text-align: center;
+}
+
+li a {
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+img{
+    width: 40vw;
+    height: 60vh;
+   
+}
